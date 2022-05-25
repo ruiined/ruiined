@@ -2,7 +2,7 @@
   
   <img alt="Profile Picture" src="https://user-images.githubusercontent.com/72412305/170298791-0d9a31b3-3d12-4c0f-9687-3624d79f7764.gif" width="300" />
   
-  #### Hi! I am Maria, Software Developer ✨ 
+ ✨ Welcome ✨
   
   <br>
   
