@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img alt="Profile Picture" src="https://user-images.githubusercontent.com/72412305/170298582-1e850306-586d-40dc-8786-3c0c43bf9483.gif" width="300" />
+  <img alt="Profile Picture" src="https://user-images.githubusercontent.com/72412305/170298791-0d9a31b3-3d12-4c0f-9687-3624d79f7764.gif" width="300" />
   
   #### Hi! I am Maria, Software Developer ✨
   
