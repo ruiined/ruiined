@@ -6,6 +6,6 @@
   
   <br>
   
-  [![CV](https://img.shields.io/static/v1?label=My&message=CV&color=9ef0e3)](https://github.com/ruiined/CV) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/static/v1?label=Linked&message=IN&color=286fc7)](https://www.linkedin.com/in/maria-gromovaja-7958b0164/)
+  [![CV](https://img.shields.io/static/v1?label=My&message=CV&color=9ef0e3)](https://github.com/ruiined/CV) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/static/v1?label=Linked&message=IN&color=286fc7)](https://www.linkedin.com/in/maria-gromovaja/)
 
 </div>
