@@ -1,11 +1,11 @@
 <div align="center">
-  
-  <img alt="Profile Picture" src="https://user-images.githubusercontent.com/72412305/170298791-0d9a31b3-3d12-4c0f-9687-3624d79f7764.gif" width="300" />
-  
- ✨ Welcome ✨
-  
-  <br>
-  
-  [![CV](https://img.shields.io/static/v1?label=My&message=CV&color=9ef0e3)](https://github.com/ruiined/CV) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/static/v1?label=Linked&message=IN&color=286fc7)](https://www.linkedin.com/in/maria-gromovaja/)
+  <img src="https://media1.giphy.com/media/duX0jtSZeJXm3zCi7E/giphy.gif?cid=790b76117af1a82053573b34742b0541cae363958f9687c4&rid=giphy.gif&ct=s" width="200"/>
+
+✨ Welcome ✨
+
+<br>
+
+  [![LinkedIn](https://img.shields.io/static/v1?label=Linked&message=In&color=9cf)](https://www.linkedin.com/in/maria-gromovaja/)
 
 </div>
+
