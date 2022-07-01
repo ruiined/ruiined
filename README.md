@@ -3,9 +3,5 @@
 
 ✨ Welcome ✨
 
-<br>
-
-  [![LinkedIn](https://img.shields.io/static/v1?label=Linked&message=In&color=9cf)](https://www.linkedin.com/in/maria-gromovaja/)
-
 </div>
 
